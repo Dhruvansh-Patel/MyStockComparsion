@@ -6,7 +6,6 @@ filename = ''
 
 # Function to fetch stock symbols from Alpha Vantage
 def get_stock_symbols(company_name):
-    # API key and URL
     api_key = 'YOUR_API_KEY'
     url = f'https://www.alphavantage.co/query'
 
