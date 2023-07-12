@@ -19,7 +19,7 @@ git clone https://github.com/dhruvansh-patel/MyStockComparsion.git
 
 pip install requests matplotlib
 
-##Usage
+## Usage
 
 1.Modify the script:
 
