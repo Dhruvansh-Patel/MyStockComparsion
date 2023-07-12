@@ -21,11 +21,11 @@ This Python script allows you to fetch stock symbols and data from the Alpha Van
 
 ## Usage
 
-1.Modify the script:
+1. Modify the script:
 
  Replace 'YOUR_API_KEY' in the get_stock_data function with your Alpha Vantage API key.
 
-2.Create and set CSV file
+2. Create and set CSV file
 
  Create a CSV file with pre added headers for the program namely : Symbol', 'Company Name', 'Current Price', 'Price Change', 'Percent Change'.
  Set the filename vairable to the path of the CSV file. 	
@@ -40,7 +40,7 @@ This Python script allows you to fetch stock symbols and data from the Alpha Van
  If comparing, enter the stock symbols to compare (comma-separated).
  If fetching, enter the company name for which you want to fetch stock data.
 
-5.View the results:
+5. View the results:
 
  If comparing, the script will display graphs comparing the selected stocks' current prices, price changes, and percent changes.
  If fetching, the script will display the fetched stock information and save it to the CSV file.
